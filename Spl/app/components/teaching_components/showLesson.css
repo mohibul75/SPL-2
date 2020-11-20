@@ -1,0 +1,9 @@
+.bcg {
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+}
+.center{
+  text-align: center;
+}

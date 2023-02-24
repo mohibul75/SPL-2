@@ -19,7 +19,7 @@
     "bootstrap": "^4.4.1",
     "dree": "^2.4.10",
     "fs-extra": "^8.1.0",
-    "sequelize": "^5.21.3",
+    "sequelize": "^6.29.0",
     "sqlite": "^3.0.3"
   }
 }
